@@ -61,22 +61,6 @@ img {
     right: 0;
 }
 
-/* home-page header */
-.carousel-slide {
-    width: 100px;
-    height: 100px;
-    background: url("assets/images/home1.jpeg");
-    animation-name: example;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-  }
-  
-  @keyframes example {
-    0%   {background: url("assets/images/home1.jpeg");}
-    25%  {background: url("assets/images/home2.jpg");}
-    50%  {background: url("assets/images/home3.jpg");}
-    100% {background: url("assets/images/home1.jpeg");}
-  }
 
 
 
@@ -85,16 +69,6 @@ img {
 
 
 
-
-
-/* end of home-page */
-
-
-
-.purpose image {
-    height: 300px;
-    width: 300px;
-}
 
 
    
